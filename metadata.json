@@ -1,0 +1,6 @@
+{
+  "name": "Misinformation Detector & Risk Engine",
+  "description": "Cyberpunk terminal app for multi-modal misinformation detection with continuous ML risk scores, explainable AI, URL scraping, OCR, and historical claims ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
